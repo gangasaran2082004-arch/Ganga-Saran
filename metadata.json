@@ -1,0 +1,7 @@
+{
+  "name": "Tarang - Multilingual Indian Entertainment",
+  "description": "Premium modern Indian entertainment platform featuring short videos, trending comedy, music, web series and personalized discovery in Hindi, English, and regional languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
